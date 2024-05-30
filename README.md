@@ -28,8 +28,6 @@ The Forkify Recipe App is designed to be user-friendly and intuitive. Here’s h
 3. **Adjust Servings**: Easily modify the number of servings to suit your needs.
 4. **Bookmark Favorites**: Save recipes to your favorites list for quick access later. Bookmarked recipes are stored in your browser’s local storage.
 
-For more detailed examples and usage instructions, please refer to the [Documentation](#).
-
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps:
@@ -53,17 +51,5 @@ To get a local copy up and running, follow these simple steps:
     ```bash
     npm start
     ```
-
-Now you can open your browser and navigate to `http://localhost:8080` to see the app in action.
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. **Fork the Project**
-2. **Create your Feature Branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your Changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the Branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
 
 Happy cooking with Forkify! 🥗🍲🍰
